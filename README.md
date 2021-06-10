@@ -2,6 +2,7 @@
 
 ## adora
 
+- tag : v0.1.0
 - chain-id : adora
 - seeds
     - bad95d276696706c4df2272d45395d7da4a13f43@13.124.50.97:26656
