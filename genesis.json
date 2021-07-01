@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2021-05-13T05:54:16.339450544Z",
-  "chain_id": "adora",
+  "genesis_time": "2021-07-01T06:40:00.000000000Z",
+  "chain_id": "groot-07",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -24,7 +24,7 @@
   "app_state": {
     "auth": {
       "params": {
-        "max_memo_characters": "256",
+        "max_memo_characters": "512",
         "tx_sig_limit": "7",
         "tx_size_cost_per_byte": "10",
         "sig_verify_cost_ed25519": "590",
@@ -41,6 +41,13 @@
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "rizon1m0ulukvc2zxkjwctcy8hdkrwkfd9fmw6p902va",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1s4v4jrd47fwjlj5az7va0lv9azxfvafzxxsqta",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -79,7 +86,16 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "100000000000"
+              "amount": "100000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1s4v4jrd47fwjlj5az7va0lv9azxfvafzxxsqta",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "200000000000000"
             }
           ]
         },
@@ -97,7 +113,7 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "1000000000000"
+              "amount": "1600000000000000"
             }
           ]
         },
@@ -106,7 +122,7 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "100000000000"
+              "amount": "100000000000000"
             }
           ]
         },
@@ -115,7 +131,7 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "1000000000000"
+              "amount": "100000000000000"
             }
           ]
         }
@@ -123,7 +139,7 @@
       "supply": [
         {
           "denom": "uatolo",
-          "amount": "2210000000000"
+          "amount": "2100010000000000"
         }
       ],
       "denom_metadata": []
@@ -168,7 +184,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "adora",
+                  "moniker": "Morning",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -188,7 +204,7 @@
                 },
                 "value": {
                   "denom": "uatolo",
-                  "amount": "10000000000"
+                  "amount": "1000000000000"
                 }
               }
             ],
@@ -220,7 +236,7 @@
             }
           },
           "signatures": [
-            "O2XXZjG3MIhzjUOOJh2LeOD9VpEEtu1OPGXDPzXkI91II2swN6SDI9mp+Tp/uqlJU5AioHiKUL+MtZWF3boEKA=="
+            "fUgZqjTYSD2czRAQRIgVM0+wx/SK8VM0BmJb9GdaprhF7MnszvZUVd8C5Pi7AZIVLwN3CdgC1/8yxQfCLZNDBg=="
           ]
         }
       ]
@@ -234,13 +250,13 @@
         "min_deposit": [
           {
             "denom": "uatolo",
-            "amount": "1000000"
+            "amount": "10000000"
           }
         ],
         "max_deposit_period": "172800s"
       },
       "voting_params": {
-        "voting_period": "120s"
+        "voting_period": "172800s"
       },
       "tally_params": {
         "quorum": "0.334000000000000000",
@@ -285,21 +301,21 @@
       },
       "params": {
         "mint_denom": "uatolo",
-        "inflation_rate_change": "0.130000000000000000",
+        "inflation_rate_change": "1.000000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
-        "blocks_per_year": "6311520"
+        "blocks_per_year": "4360000"
       }
     },
     "params": null,
     "slashing": {
       "params": {
         "signed_blocks_window": "100",
-        "min_signed_per_window": "0.500000000000000000",
+        "min_signed_per_window": "0.050000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
-        "slash_fraction_downtime": "0.010000000000000000"
+        "slash_fraction_downtime": "0.000100000000000000"
       },
       "signing_infos": [],
       "missed_blocks": []
@@ -307,7 +323,7 @@
     "staking": {
       "params": {
         "unbonding_time": "1814400s",
-        "max_validators": 100,
+        "max_validators": 125,
         "max_entries": 7,
         "historical_entries": 10000,
         "bond_denom": "uatolo"
