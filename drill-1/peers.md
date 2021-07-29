@@ -5,3 +5,4 @@
 - additional community seeds
     - FILL YOUR SEEDS HERE WITH YOUR VALIDATOR NAME
     - 08c0e4c197a0607a9832f9b365d07cef9b04a859@3.34.181.126:26656 // morning
+    - 35eec50bab5861d032b5105de630b5d2da1a9c3d@3.23.13.122:26656 // peaches
