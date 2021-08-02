@@ -5,3 +5,4 @@
 - additional community seeds
     - FILL YOUR SEEDS HERE WITH YOUR VALIDATOR NAME
     - 08c0e4c197a0607a9832f9b365d07cef9b04a859@3.34.181.126:26656 // morning
+    - 6a47b4fb4ea56203cfea4059f39737beae216503@14.52.147.51:30519 // 0base.vc
