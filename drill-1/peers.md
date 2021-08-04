@@ -1,1 +1,4 @@
+- additional community seeds
+    - FILL YOUR SEEDS HERE WITH YOUR VALIDATOR NAME
+    - 08c0e4c197a0607a9832f9b365d07cef9b04a859@3.34.181.126:26656 // morning   
     - 0978075e295902b1aa4c4f1f087fb29ca144b2fe@95.217.18.81:26656 // oxes
