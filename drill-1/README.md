@@ -6,11 +6,9 @@
 
 ```bash
 $ git clone https://github.com/rizon-world/rizon.git && cd rizon
-$ git checkout v0.2.0
-$ make install
-```
 
-**Specific version will be changed before start drill!**
+$ git checkout v0.2.3
+$ make install
 
 ### Setup initial node
 
@@ -116,7 +114,9 @@ If there is no error, you have `gentx-<your_node_id>.json` file on `~/.rizon/con
 
 You need to send us your gentx, submit a pull request with your gentx file on `drill-1/gentxs/` directory of this repository `drill-1` branch with filename `<validator_name>.json` format.
 
-### Provide public seed or peer
+
+### Optional. Provide public seed or peer
+
 
 If you can provide public seed or peer, you also can submit a pr here, just edit `drill-1/peers.md` file and fill your information.
 
