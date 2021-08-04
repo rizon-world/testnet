@@ -5,3 +5,4 @@
 - additional community seeds
     - FILL YOUR SEEDS HERE WITH YOUR VALIDATOR NAME
     - 08c0e4c197a0607a9832f9b365d07cef9b04a859@3.34.181.126:26656 // morning
+    - 4860c5bed8820909555d60ed4f5c1ba06238518c@135.181.138.161:29656 // papsan
