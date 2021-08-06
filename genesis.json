@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2021-07-01T06:40:00.000000000Z",
-  "chain_id": "groot-07",
+  "genesis_time": "2021-08-06T08:00:00Z",
+  "chain_id": "groot-011",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -54,13 +54,6 @@
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "rizon1kzjtdkkl93gfwxyhwgvex4k6m3y3dagfnas9ec",
           "pub_key": null,
           "account_number": "0",
@@ -69,6 +62,146 @@
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
           "address": "rizon1r4tgu5k48c2anehp3u9gjqda89mu39tl5mqp4h",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1cafygu0kppg46tq9kkzz9z9nrf5v8zwwnf5t9l",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1m3c5s2mc6ycwcmhwlgv86xdy5n6lu0dfcaerqm",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1jd5udapuezypan5xjhq3empc0ns6zxwpxzp3sx",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon13a4asd0tvekw6r2cga36k5j82rfwhdla9cd99j",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1fsv32lf8f8uzuxgzwjmd3rkqc27gflzp09cwel",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1qe66hyuc0rfl9cr63eg3znzlcflsa6786x8jnl",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1kpm2k0wuhehttv43les2ahud9rg5vx34a7pzp7",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1d7mqtshrjv8zaff88ts8uyjg7qwjver2ap4523",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1wq8wcamtkkahcvypk3ny03ynw2q3dqgyruuj9u",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1tqv36eh27pnkta5pmlzrzmcp4zc09qczdzdxcj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1zf7r6lafcjv0u4333nj72wy0cg2hjgwm8d44zs",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1pfvjcxds4saeggtcywgt3rtqsyk3gvml9g55dr",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1vwml3z2k9yx9zczwgkmr8ea2qf6tj4m9a6f95h",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1rdk72gv989qpe6thcsqlkpyccfwy3yw4mnxkpj",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon17k4q0kd3544knzlll2y2l2fhlrnsrnr8l0fj0j",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1wwmw9r5mfay8a2heflmlsqce8zlr5vpeyt3y3a",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1jpvsjv03gsxem95a02qh87rgfwghsjsh3rtj3h",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon19qrm59ft3rpkz8sgl42eshk0v4g2dmm9qg0kq2",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon122xsqrqjdh5qmm5k86358v6jevsce8t3rcmjvh",
+          "pub_key": null,
+          "account_number": "0",
+          "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.auth.v1beta1.BaseAccount",
+          "address": "rizon1064sjzn3neyyup0gtm2sxtgqslfrslrgznlt80",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -82,11 +215,128 @@
       },
       "balances": [
         {
+          "address": "rizon1qe66hyuc0rfl9cr63eg3znzlcflsa6786x8jnl",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1pfvjcxds4saeggtcywgt3rtqsyk3gvml9g55dr",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1zf7r6lafcjv0u4333nj72wy0cg2hjgwm8d44zs",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1rdk72gv989qpe6thcsqlkpyccfwy3yw4mnxkpj",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
           "address": "rizon1r4tgu5k48c2anehp3u9gjqda89mu39tl5mqp4h",
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "100000000000000"
+              "amount": "10000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon19qrm59ft3rpkz8sgl42eshk0v4g2dmm9qg0kq2",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1fsv32lf8f8uzuxgzwjmd3rkqc27gflzp09cwel",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon122xsqrqjdh5qmm5k86358v6jevsce8t3rcmjvh",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1tqv36eh27pnkta5pmlzrzmcp4zc09qczdzdxcj",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1vwml3z2k9yx9zczwgkmr8ea2qf6tj4m9a6f95h",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1d7mqtshrjv8zaff88ts8uyjg7qwjver2ap4523",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1wq8wcamtkkahcvypk3ny03ynw2q3dqgyruuj9u",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1wwmw9r5mfay8a2heflmlsqce8zlr5vpeyt3y3a",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1064sjzn3neyyup0gtm2sxtgqslfrslrgznlt80",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
             }
           ]
         },
@@ -95,16 +345,34 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "200000000000000"
+              "amount": "10000000000000"
             }
           ]
         },
         {
-          "address": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7",
+          "address": "rizon13a4asd0tvekw6r2cga36k5j82rfwhdla9cd99j",
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "10000000000"
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1jpvsjv03gsxem95a02qh87rgfwghsjsh3rtj3h",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1jd5udapuezypan5xjhq3empc0ns6zxwpxzp3sx",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
             }
           ]
         },
@@ -113,7 +381,16 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "1600000000000000"
+              "amount": "160000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1kpm2k0wuhehttv43les2ahud9rg5vx34a7pzp7",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
             }
           ]
         },
@@ -122,7 +399,16 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "100000000000000"
+              "amount": "10000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1cafygu0kppg46tq9kkzz9z9nrf5v8zwwnf5t9l",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "10000000000000"
             }
           ]
         },
@@ -131,7 +417,25 @@
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "100000000000000"
+              "amount": "500000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1m3c5s2mc6ycwcmhwlgv86xdy5n6lu0dfcaerqm",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon17k4q0kd3544knzlll2y2l2fhlrnsrnr8l0fj0j",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000"
             }
           ]
         }
@@ -139,7 +443,7 @@
       "supply": [
         {
           "denom": "uatolo",
-          "amount": "2100010000000000"
+          "amount": "701900000000000"
         }
       ],
       "denom_metadata": []
@@ -178,6 +482,1043 @@
     },
     "genutil": {
       "gen_txs": [
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "0base.vc",
+                  "identity": "67A577430DBBCEE0",
+                  "website": "https://0base.vc",
+                  "security_contact": "0@0base.vc",
+                  "details": "0base.vc is a validator who doesn't trust any blockchain; we validate it ourselves."
+                },
+                "commission": {
+                  "rate": "0.200000000000000000",
+                  "max_rate": "1.000000000000000000",
+                  "max_change_rate": "0.100000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1m3c5s2mc6ycwcmhwlgv86xdy5n6lu0dfcaerqm",
+                "validator_address": "rizonvaloper1m3c5s2mc6ycwcmhwlgv86xdy5n6lu0dftemzzt",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "EUfnRIZM1sHYEHmWoNiOEFA231mGvxCOmPuSurhMhUg="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "6a47b4fb4ea56203cfea4059f39737beae216503@172.17.0.2:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A2OBNNGDadN+s1oXIzE4C+V1tiTZo68r6roLjh9QCimd"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "Npas7nt52wUtzoJNKSLCmFII4gGiYUq9son/EA0l3VUPnnUfuOupnqIf52EDniDB374z4wwsvDhI2XjUPZ9Cyg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "ATEAM",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1jd5udapuezypan5xjhq3empc0ns6zxwpxzp3sx",
+                "validator_address": "rizonvaloper1jd5udapuezypan5xjhq3empc0ns6zxwp4xrsjk",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "UFILWIGFE71tr76U5D7oWLB6KfrutKn1LR/DVSTDUMo="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "1000000000"
+                }
+              }
+            ],
+            "memo": "19a7d9a222a808926e9ef9008fc0b30927e973eb@10.108.1.10:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AqufHidy8mCb5oW5hlm+h1jFxVa/4kjt/BhOitHLJ3tw"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "DtqDCH+2f38KPc2DDAe8POFNQFb1CWdgXxZ7MJrRRoM4K2uBRigqfE5V4yhCkRs0cdB8nM/JiQN/xnbLrf8U7A=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Army IDs",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1wq8wcamtkkahcvypk3ny03ynw2q3dqgyruuj9u",
+                "validator_address": "rizonvaloper1wq8wcamtkkahcvypk3ny03ynw2q3dqgysc7n8v",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "V0b29+LPUqDk7P6acHs4ng6Y9z0CmiecJt5MPhJ9jgE="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "65f5e463563e90883716fa800d96dd4125a29f28@144.91.123.104:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AxVdFNxJ8tOmhPW6+jPFvWdknuwMS+zdQXeNQuAHkatW"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "VF/mpyOR2JO/3seQAk+kE1b8eON0ZDX10+PlwOCHg4YBFCLq8oG6RQedAiancGUruGU01KYCGerpMQhlHnINTA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Blockfield.INC",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1wwmw9r5mfay8a2heflmlsqce8zlr5vpeyt3y3a",
+                "validator_address": "rizonvaloper1wwmw9r5mfay8a2heflmlsqce8zlr5vpeh0n9nd",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "aDM/tOI7O1JzSPuBOgsZI+thw26EHqpTgQfYxVorfuY="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "a52dea20d963d7e0993ca2b09692b2096826296b@74.91.19.2:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AmDdgXuJxveGeIPzVfvjMq2SoJQbO/n+K0tdvr5h1We7"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "w2OHigCQn4cMOCDrLQ+r/kCKp35ZlbF1AzuI5+StHPR2GyxihIBM/A3sqKlaNgMVbcckPDhoe/b4uh/Kj6Z5yQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Cosmostation",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon13a4asd0tvekw6r2cga36k5j82rfwhdla9cd99j",
+                "validator_address": "rizonvaloper13a4asd0tvekw6r2cga36k5j82rfwhdlaku0y8z",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "mlSBaH5sy+QGr1Y4Ua1u8tiWZXjTWOFaBTtjwt7g/Fo="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "ea4149292cdc5f3a92b8cf04d48bab4090cd9ece@192.168.0.34:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AtctJWyr/VjQpPffhkblqoEnZDGPIx4lwYdzRJYHh3Lx"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "mCSinUWcNBWB4lKU+JrYqntXpveU/7sETIoqX0EVn80IljvVj82oMasrUyvXW8ndSurCU9nI6xWHdL+Ku3yLZw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "HashQuark",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1jpvsjv03gsxem95a02qh87rgfwghsjsh3rtj3h",
+                "validator_address": "rizonvaloper1jpvsjv03gsxem95a02qh87rgfwghsjshz8fnn8",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "+Yn/qQ8cNLhNNsb9eQDcylq460+PG4cV06xmO6saluU="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "569dc0eb5a80a4105b13fa546f915d5149611805@10.8.127.66:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A6ioU4HAPFiaSRZooFfAUYJ4lP2SCTzxBS70fCkfQWFC"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "k8flwJvCxZRHQyJfXRvQl2qosEeLddHyT5qpPlmRo80uVbgY33Hz1ii+tqexM/JQYbyDOtNSXE2GoetOSB7tug=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "KamuJahat",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon19qrm59ft3rpkz8sgl42eshk0v4g2dmm9qg0kq2",
+                "validator_address": "rizonvaloper19qrm59ft3rpkz8sgl42eshk0v4g2dmm9nvdhz6",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "iS4oDrCOfORWssHq8hfAIhiRsCYqNBiR1rCYh7G3cT8="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "12b27530f79520c9a3172c429a539e5341dea54c@139.180.189.221:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AsyLx+v8qMhkeGZUtmL0bXC5ha1th57BXFl19IngkqHk"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "ph2DAXdK6aibxF0W5B0S0N/CitMatZNuqMb4/qyd9bAkLXfJ9iZSKzgVGHNKcWci1w6xbVLChBrywaU3df+z0A=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "n0ok[MantiCore]",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon122xsqrqjdh5qmm5k86358v6jevsce8t3rcmjvh",
+                "validator_address": "rizonvaloper122xsqrqjdh5qmm5k86358v6jevsce8t3suenw8",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "I6fkmwQIOJZm2IehmACNNjlcTt697LiraYRPuNZCpPo="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "1c104678ffd82f9993453389d71dd1f9f4aee5fe@65.21.111.214:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A6WnbmD33Dmq7shHCtApwiDyXYVMNhXF9yCErdVenQeu"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "QOiIDespPztZJLMIRdnDwHfSSuppDsCXfFFzGww/DpwWg09YONmqwDnCtNyvAkXzUAO2whJB5g5hH9Fp4RkU/Q=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Mr.K",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1tqv36eh27pnkta5pmlzrzmcp4zc09qczdzdxcj",
+                "validator_address": "rizonvaloper1tqv36eh27pnkta5pmlzrzmcp4zc09qcz7x086z",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "SKtfKeXCipqZpBGzMrhBa/eK9qeAgvJQEvYcgDv62AU="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "3b8bba36191286ea05d85d57eed035997da20c0a@10.10.1.100:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Ai2LszvTmq0rmxN1ohtnepYwAnav01632r6koiNfCi3q"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "olVsCYd27ni5DiR9GBrAjxrBMJLk1gLNMJTZSFX5JSpuDkYmkNIoABHS/pY7j9HDhwORkHI0ggsx512uZB1B/Q=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "ForStake",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1pfvjcxds4saeggtcywgt3rtqsyk3gvml9g55dr",
+                "validator_address": "rizonvaloper1pfvjcxds4saeggtcywgt3rtqsyk3gvmlkvk40n",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "xb9Td1G3W/A8DtyYTdphdj8Sq3lTqIxCzPr30OB2HyU="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "1c35cad7f93deb377174ae3a229b020d8986b978@167.86.119.230:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Axx5mzwH5CcAkzz7c/jiIfSRb8GFsgi58++qmpRMFQBe"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "fqZ8sjFLlyUl1UYfDdYPHzVjPuEhJFrlvy+wYa0cPsdYKRYPFKJdscmIANvgPwX1FEUOz/uvYsrAoxr8fy73iA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "ac-validator",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1fsv32lf8f8uzuxgzwjmd3rkqc27gflzp09cwel",
+                "validator_address": "rizonvaloper1fsv32lf8f8uzuxgzwjmd3rkqc27gflzpup60m0",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "UGMTBpFeJ/sqKSiSZvS3buwqcG7QN0y4HMHm1xaX3MA="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "6761f02cda0a1dec0bfb48d359fc87f0f8dae940@206.189.56.98:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "Ar1Ll19svd4wXlHqRwmThAwM5WAU1CW2NCO5Pjj0pVwg"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "eHAgVNq8YoxIvVMX4d33QDrV0zQhO7bl4VUEH1xZzbJezOxU65S/yqvjZFD6raaFc/8qNCKn8kbkWBA4bPmipw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Afternoon",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1kzjtdkkl93gfwxyhwgvex4k6m3y3dagfnas9ec",
+                "validator_address": "rizonvaloper1kzjtdkkl93gfwxyhwgvex4k6m3y3dagfqejymg",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "M4POisNgu8+YVtrlW5soAOi/6KFZYtsV/aKG7Axqgz8="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "1000000000000"
+                }
+              }
+            ],
+            "memo": "fd11f503f7cfced5e96b7426e6b8d63bea30a123@10.0.1.227:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A0QrVaFSoqSNWyQ5/DC6dmiQm7yC1fk4I84XlITJcJFR"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "rFXzscfYusmewUoGGsYSGpEU3sPWkQ5Ju5Pm+drWCsFfuP7Cm/pZBnxPe2OqyDWgUIJnF/SyHWGK9GgjUUUepQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "alexznet",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1vwml3z2k9yx9zczwgkmr8ea2qf6tj4m9a6f95h",
+                "validator_address": "rizonvaloper1vwml3z2k9yx9zczwgkmr8ea2qf6tj4m9w7tyk8",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "dVUfl31rdBXzyfPRxPFIW1yEUDBcfappUyqYZsfmN7o="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "b2d7f705808e5f106bd2c5427a63af19b817c44e@68.170.153.185:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AjCq7NkNChG4vviKZ+SERxdEpkFTbDXOJkpOww1x4yPZ"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "uAh749Ae8eM4eQ15xPLqAGPEaHuv5nc5BGcsHUxGzh8/l7D/ct13tYFkmE7afQpHb5e5+WdyXybSCUqPqfbGEg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Anonstake",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1qe66hyuc0rfl9cr63eg3znzlcflsa6786x8jnl",
+                "validator_address": "rizonvaloper1qe66hyuc0rfl9cr63eg3znzlcflsa678fz9n30",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "FhpZP5n7UouuuEuLRkxZ4w8qzJLNe+IdncoIOorqEu8="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "bbcc62acee2672bf0ff947bd9057015c7c1787a3@138.201.8.83:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "ArGEn6CDuqIkGgtZIZRg9e25ESSbFhXvVPczOLGesh9c"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "dCpCBrN/sIZ88S0TXpxUTwkh+1h4lpsr7lKxIbuQiag/02z+F2P1IsTFBckWYGrgqo+NJdkHNAIh9ytQOi/UOg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "brightlystake",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1rdk72gv989qpe6thcsqlkpyccfwy3yw4mnxkpj",
+                "validator_address": "rizonvaloper1rdk72gv989qpe6thcsqlkpyccfwy3yw4ghyhrz",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "32j2ImlHZqarQ4m7HbW0xqxIXBl0u7lgA1UCagty3Ko="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "fcf5e9487ce864293f5dfa63979a7cedbc7b606b@65.21.110.127:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AkSifLVdJpS8qADBI2X4b+YDE94AURUozLYJDVQ/c5Ob"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "OX1uaE8+1BwZhp4R+S1GpQZlFzXpX28xj3ewzhyvRsRa9o7LR4kVPIM6TR5L0GTF6XX5pOJU+NbwhDvS0LscYg=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "DELIGHT-testnet",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1kpm2k0wuhehttv43les2ahud9rg5vx34a7pzp7",
+                "validator_address": "rizonvaloper1kpm2k0wuhehttv43les2ahud9rg5vx34w6rrrw",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "FwV1TVo4/UD1AoI9w3yT1Fl8MNw4kQhpwFiwqDvps1I="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "3b30501d78310ecab88063f71b163eeda5949303@172.32.1.125:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AsV1yY2uzV18Jl3PzF9d/dI2GhG29/JJVis+yhyjjGhP"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "sbIYbm/17ZmK153gE/LiGCPlqtB7bJkDD0SavvJyRdRPfhDXx64ax4Z43adc28PKcN9kpm2VYT/xMQ+DOSmWiQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Evening",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1r4tgu5k48c2anehp3u9gjqda89mu39tl5mqp4h",
+                "validator_address": "rizonvaloper1r4tgu5k48c2anehp3u9gjqda89mu39tl8lzqh8",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "yJDSb+Rg8F3gv1ToYtcl4bLZCnXvC1bU/JlCb3w9NYI="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "1000000000000"
+                }
+              }
+            ],
+            "memo": "3868c36765298ffeac690fe35464e22b586f74ed@10.0.3.211:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "A3YoievxA/Kj78Z1sF3CSVVNqrWHQZDQ1N2Dac2YBtZu"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "/5Rc0t9he6h2hI0kpVbJ2V17ZmY1Tw/55A6nI5l4E6wJYPFIqydmIKzGGHxeZqaglAiUQOQnfE055QS2Mun9lw=="
+          ]
+        },
         {
           "body": {
             "messages": [
@@ -236,7 +1577,251 @@
             }
           },
           "signatures": [
-            "fUgZqjTYSD2czRAQRIgVM0+wx/SK8VM0BmJb9GdaprhF7MnszvZUVd8C5Pi7AZIVLwN3CdgC1/8yxQfCLZNDBg=="
+            "J+Swl9qr8Nb1G5QT7jzxtRBBGXmE7BM+6RgIyGW5Fhh0+r2WbTSzyQW9kEtnRqulSuYhQXdCfPZYe6HSAfx8rw=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "nodesguru",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1zf7r6lafcjv0u4333nj72wy0cg2hjgwm8d44zs",
+                "validator_address": "rizonvaloper1zf7r6lafcjv0u4333nj72wy0cg2hjgwm5fh5qq",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "f8bEcf8a01psqnBKXEkQG7MtxLq5fJf1/4h0j5fNNjg="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "97376a4f5628d0059e4eb2b4eb49df4df26318bb@89.163.218.156:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AxRvHz6Bqi6S5hcNyNAP6m2LPV2v4LPybTPa+2aQd0f/"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "SM/0mRdzrP+OkLQlba0OhWJk3HY3uLzqNbYNSUxw6ZtwyyebxEsIXWm+mDJRIQxmac2zoVp+eA7BIRcYMm+C6A=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "qf3l3k",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1064sjzn3neyyup0gtm2sxtgqslfrslrgznlt80",
+                "validator_address": "rizonvaloper1064sjzn3neyyup0gtm2sxtgqslfrslrg3ha29l",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "K0Iqnwi8B6I1GX3QO7WDMBfTWyGewk4sUFZtJMaw+ts="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "c72fc205ae74df7e58705b75057707f98a7ac8a7@167.86.97.240:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "As38d4ofwAGd5iNQswJDOeKhYnMogvT9uafNjmEAfC3Q"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "XaXgJdF5KLEPm9j6ovh1VvTmdu4Qi5YJo5WTfoqPtucovUZLgoy4FuWEKT8wENVcoqp7/fT54G0BFJkP9VLaMQ=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "Stakely.io",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon1d7mqtshrjv8zaff88ts8uyjg7qwjver2ap4523",
+                "validator_address": "rizonvaloper1d7mqtshrjv8zaff88ts8uyjg7qwjver2w9h4gp",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "NJORofkAKQ9BDm4jJch0JKZS2I9Z6d1ZhcN3fs3llnw="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "01c0d60863b2cade4a2f5f47d1bfee180906ca18@161.97.113.107:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "ApmylbGBo+zubkRtQsMngEudKMaJwEEMOEe83LWvsHl6"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "Pt5YGKdCXdt1OhiYK3H+v0VyUGQ/xz2id0ruLuNjN5s26jIiSCKf5nlXuUuMUQxKI3nZf4OTZPdtIn3jLdT+tA=="
+          ]
+        },
+        {
+          "body": {
+            "messages": [
+              {
+                "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
+                "description": {
+                  "moniker": "staketarget",
+                  "identity": "",
+                  "website": "",
+                  "security_contact": "",
+                  "details": ""
+                },
+                "commission": {
+                  "rate": "0.100000000000000000",
+                  "max_rate": "0.200000000000000000",
+                  "max_change_rate": "0.010000000000000000"
+                },
+                "min_self_delegation": "1",
+                "delegator_address": "rizon17k4q0kd3544knzlll2y2l2fhlrnsrnr8l0fj0j",
+                "validator_address": "rizonvaloper17k4q0kd3544knzlll2y2l2fhlrnsrnr8vttndz",
+                "pubkey": {
+                  "@type": "/cosmos.crypto.ed25519.PubKey",
+                  "key": "r/XgriEptxMNnLqV9RRg5f0t3HHVYicXsJSlEU+kW9Y="
+                },
+                "value": {
+                  "denom": "uatolo",
+                  "amount": "100000000"
+                }
+              }
+            ],
+            "memo": "ea711347485a99e5cca198630597603896ebb6bb@162.55.68.188:26656",
+            "timeout_height": "0",
+            "extension_options": [],
+            "non_critical_extension_options": []
+          },
+          "auth_info": {
+            "signer_infos": [
+              {
+                "public_key": {
+                  "@type": "/cosmos.crypto.secp256k1.PubKey",
+                  "key": "AmrezphbX6wqDyt1yZpk50j4vtP4LZb17QBZLOZtxniy"
+                },
+                "mode_info": {
+                  "single": {
+                    "mode": "SIGN_MODE_DIRECT"
+                  }
+                },
+                "sequence": "0"
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas_limit": "200000",
+              "payer": "",
+              "granter": ""
+            }
+          },
+          "signatures": [
+            "02Wh3TsJjZdQ3NXDHzrWVzflYa3ROAF8LCrg69m4x1cZZGblLiaqUyqweI5ShKXXSS8bGp8ym5w1WrgTUS2ILg=="
           ]
         }
       ]
@@ -301,7 +1886,7 @@
       },
       "params": {
         "mint_denom": "uatolo",
-        "inflation_rate_change": "1.000000000000000000",
+        "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
@@ -311,7 +1896,7 @@
     "params": null,
     "slashing": {
       "params": {
-        "signed_blocks_window": "100",
+        "signed_blocks_window": "10000",
         "min_signed_per_window": "0.050000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
@@ -339,7 +1924,8 @@
     "tokenswap": {
       "params": {
         "swappable": true,
-        "signer": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7"
+        "signer": "rizon1cafygu0kppg46tq9kkzz9z9nrf5v8zwwnf5t9l",
+        "limit": "1500000000000000"
       }
     },
     "transfer": {
