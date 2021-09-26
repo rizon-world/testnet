@@ -2,17 +2,8 @@
 
 ## groot
 
-- tag : v0.2.0
-- chain-id : groot-07
+- tag : v0.2.8
+- chain-id : groot-014
 - seeds
-    - 08c0e4c197a0607a9832f9b365d07cef9b04a859@3.34.181.126:26656
-    - 34cec0c4ada4cd7f8ad26c457d604edc0eff3cb0@13.124.253.195:26656
-    - 72016f93daf677147c5d1d2625273dde61ae2d0a@3.34.5.208:26656
-- additional community seeds:
-    - fc40d080708997112f799afaac09c667a560131a@65.21.184.214:26656 (Togran's node)
-    - b197e7a5c3a70d6e6d5d65a09d881fa4ff597201@65.21.106.221:26656 (secondary's node)
-    - 7216c0b7bd384036211946571d5fde3b63e71523@104.251.216.165:26656 (MT's node)
-    - 4c255b376f2a5208f6a2aed641a50fadd81d318d@128.199.198.111:26656 (russel-vivier's node)
-    - a891d5b5f6e1b38e851e5e8162641b4c3e722698@95.111.240.161:26656 (yasir's node)
-    - 3b8bba36191286ea05d85d57eed035997da20c0a@3.210.29.92:26656 (Mr.K's node)
-    - 5f44d0054e7601bef5620e5423d872614828899c@135.181.94.111:26656 (n0ok[MantiCore]'s node)
+    - 806af439dc32c59ed8896508ab88091a7f25c187@seed-1.testnet.rizon.world:26656
+    - 6a5c29885ca035dbe52b8152e781a02966742ae3@seed-2.testnet.rizon.world:26656 

@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2021-07-01T06:40:00.000000000Z",
-  "chain_id": "groot-07",
+  "genesis_time": "2021-09-25T09:41:09.950565206Z",
+  "chain_id": "groot-014",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -24,7 +24,7 @@
   "app_state": {
     "auth": {
       "params": {
-        "max_memo_characters": "512",
+        "max_memo_characters": "256",
         "tx_sig_limit": "7",
         "tx_size_cost_per_byte": "10",
         "sig_verify_cost_ed25519": "590",
@@ -33,42 +33,21 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1j4y5g8zpndw949kcv4yta5yv90ss7j8lkfj74l",
+          "address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1m0ulukvc2zxkjwctcy8hdkrwkfd9fmw6p902va",
+          "address": "rizon1ucx2j985dqrrdkwquvxqxprp5ytx2yxgwr5d7x",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1s4v4jrd47fwjlj5az7va0lv9azxfvafzxxsqta",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1kzjtdkkl93gfwxyhwgvex4k6m3y3dagfnas9ec",
-          "pub_key": null,
-          "account_number": "0",
-          "sequence": "0"
-        },
-        {
-          "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1r4tgu5k48c2anehp3u9gjqda89mu39tl5mqp4h",
+          "address": "rizon1wchxt30gf8waeqfklgc90n3h5sqa3k7gh50x68",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -82,7 +61,16 @@
       },
       "balances": [
         {
-          "address": "rizon1r4tgu5k48c2anehp3u9gjqda89mu39tl5mqp4h",
+          "address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "1000000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1wchxt30gf8waeqfklgc90n3h5sqa3k7gh50x68",
           "coins": [
             {
               "denom": "uatolo",
@@ -91,47 +79,11 @@
           ]
         },
         {
-          "address": "rizon1s4v4jrd47fwjlj5az7va0lv9azxfvafzxxsqta",
+          "address": "rizon1ucx2j985dqrrdkwquvxqxprp5ytx2yxgwr5d7x",
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "200000000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "10000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon1j4y5g8zpndw949kcv4yta5yv90ss7j8lkfj74l",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "1600000000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon1kzjtdkkl93gfwxyhwgvex4k6m3y3dagfnas9ec",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "100000000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon1m0ulukvc2zxkjwctcy8hdkrwkfd9fmw6p902va",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "100000000000000"
+              "amount": "500000000000000"
             }
           ]
         }
@@ -139,7 +91,7 @@
       "supply": [
         {
           "denom": "uatolo",
-          "amount": "2100010000000000"
+          "amount": "1600000000000000"
         }
       ],
       "denom_metadata": []
@@ -184,7 +136,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "Morning",
+                  "moniker": "val_node",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -196,11 +148,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "rizon1j4y5g8zpndw949kcv4yta5yv90ss7j8lkfj74l",
-                "validator_address": "rizonvaloper1j4y5g8zpndw949kcv4yta5yv90ss7j8l9dslh0",
+                "delegator_address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
+                "validator_address": "rizonvaloper1qufgzxljvx9dz2zutp2cxyp78ut5hcpdvjkqcn",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "dHh/8Wt2hSqCFqMPr/+Wx9lPjotN4pz6wUd1QkzZf/M="
+                  "key": "QJxzRdMLiGySD2eZhZ5STajZ+GOvTgoqNZi3378tcX0="
                 },
                 "value": {
                   "denom": "uatolo",
@@ -208,7 +160,7 @@
                 }
               }
             ],
-            "memo": "578f8d2743946ddda4935b87eb5be9f70f1d94e1@10.0.1.195:26656",
+            "memo": "ab87b3dbe48a6639e582458b4f0cee4d0f0c1b49@172.31.14.150:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -218,7 +170,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "A8W6xji3gaBZfVlSjFoXTNhmhX9vLxHaXW0BSFi49L37"
+                  "key": "AyzLcq6CrqUivjlmAa345T4wOqRLgYysy9vvTjAAr9DI"
                 },
                 "mode_info": {
                   "single": {
@@ -236,7 +188,7 @@
             }
           },
           "signatures": [
-            "fUgZqjTYSD2czRAQRIgVM0+wx/SK8VM0BmJb9GdaprhF7MnszvZUVd8C5Pi7AZIVLwN3CdgC1/8yxQfCLZNDBg=="
+            "5ZXAEvD73Ca4uRjyVQxjhKf8AjKL8EQGXubjbZrHPj8+AylL4egJxBwKiLHaVN5JhFadM/oLt2rDF39YEEIC3w=="
           ]
         }
       ]
@@ -301,21 +253,21 @@
       },
       "params": {
         "mint_denom": "uatolo",
-        "inflation_rate_change": "1.000000000000000000",
+        "inflation_rate_change": "0.130000000000000000",
         "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
-        "blocks_per_year": "4360000"
+        "blocks_per_year": "6311520"
       }
     },
     "params": null,
     "slashing": {
       "params": {
         "signed_blocks_window": "100",
-        "min_signed_per_window": "0.050000000000000000",
+        "min_signed_per_window": "0.500000000000000000",
         "downtime_jail_duration": "600s",
         "slash_fraction_double_sign": "0.050000000000000000",
-        "slash_fraction_downtime": "0.000100000000000000"
+        "slash_fraction_downtime": "0.010000000000000000"
       },
       "signing_infos": [],
       "missed_blocks": []
@@ -323,7 +275,7 @@
     "staking": {
       "params": {
         "unbonding_time": "1814400s",
-        "max_validators": 125,
+        "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
         "bond_denom": "uatolo"
@@ -339,7 +291,8 @@
     "tokenswap": {
       "params": {
         "swappable": true,
-        "signer": "rizon136fzkc73rm5def5fngs386qdlxcuvxvrte8lk7"
+        "signer": "rizon1cafygu0kppg46tq9kkzz9z9nrf5v8zwwnf5t9l",
+        "limit": "1500000000000000"
       }
     },
     "transfer": {
