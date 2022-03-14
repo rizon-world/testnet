@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2021-09-26T10:00:00Z",
-  "chain_id": "groot-14",
+  "genesis_time": "2022-03-14T04:05:00Z",
+  "chain_id": "groot-15",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -33,17 +33,57 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
+          "address": "rizon1avqds8p9dre2dkzxsjvq99d3chfsanrgrjfvns",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1ucx2j985dqrrdkwquvxqxprp5ytx2yxgwr5d7x",
+          "address": "rizon1ae7cjzd5me8xff70margvnc0sz34eagswnd6wg",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.DelayedVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "rizon13ye58s7tqeluh7yjsx6wutq46lj2xgjvqllelc",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uatolo",
+                "amount": "100000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1727510400"
+          }
+        },
+        {
+          "@type": "/cosmos.vesting.v1beta1.DelayedVestingAccount",
+          "base_vesting_account": {
+            "base_account": {
+              "address": "rizon1z7j7txrjvy6du2mq5srp3a2nqmsu5k7n6ugfd3",
+              "pub_key": null,
+              "account_number": "0",
+              "sequence": "0"
+            },
+            "original_vesting": [
+              {
+                "denom": "uatolo",
+                "amount": "100000000000000"
+              }
+            ],
+            "delegated_free": [],
+            "delegated_vesting": [],
+            "end_time": "1727510400"
+          }
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
@@ -61,11 +101,11 @@
       },
       "balances": [
         {
-          "address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
+          "address": "rizon1z7j7txrjvy6du2mq5srp3a2nqmsu5k7n6ugfd3",
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "1000000000000000"
+              "amount": "100000000000000"
             }
           ]
         },
@@ -79,11 +119,29 @@
           ]
         },
         {
-          "address": "rizon1ucx2j985dqrrdkwquvxqxprp5ytx2yxgwr5d7x",
+          "address": "rizon13ye58s7tqeluh7yjsx6wutq46lj2xgjvqllelc",
           "coins": [
             {
               "denom": "uatolo",
-              "amount": "500000000000000"
+              "amount": "100000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1avqds8p9dre2dkzxsjvq99d3chfsanrgrjfvns",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1ae7cjzd5me8xff70margvnc0sz34eagswnd6wg",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "100000000000000"
             }
           ]
         }
@@ -91,7 +149,7 @@
       "supply": [
         {
           "denom": "uatolo",
-          "amount": "1600000000000000"
+          "amount": "500000000000000"
         }
       ],
       "denom_metadata": []
@@ -136,7 +194,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "Presto",
+                  "moniker": "apple",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -148,11 +206,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "rizon1qufgzxljvx9dz2zutp2cxyp78ut5hcpdlk5p6r",
-                "validator_address": "rizonvaloper1qufgzxljvx9dz2zutp2cxyp78ut5hcpdvjkqcn",
+                "delegator_address": "rizon1avqds8p9dre2dkzxsjvq99d3chfsanrgrjfvns",
+                "validator_address": "rizonvaloper1avqds8p9dre2dkzxsjvq99d3chfsanrgsktd3q",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "rKmbzdbGvTZMsyE6pTv7Ma+E17+sZ3UdNqbGWyt9pIE="
+                  "key": "uD/PmVVYMGbvZotBTgexgSfeXEM3onbSygoDuowjQVk="
                 },
                 "value": {
                   "denom": "uatolo",
@@ -160,7 +218,7 @@
                 }
               }
             ],
-            "memo": "3d982908a26b010dbdeddd6401a26efa2e38a254@172.31.14.150:26656",
+            "memo": "6df7cdcf4781544e5b63b55b6be04c023761ec15@172.31.14.150:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -170,7 +228,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "AyzLcq6CrqUivjlmAa345T4wOqRLgYysy9vvTjAAr9DI"
+                  "key": "AkYW0EeQYCTCpEz0p4RxMeGsdCf+Fy1vlQGLNyQ8fCkD"
                 },
                 "mode_info": {
                   "single": {
@@ -188,7 +246,7 @@
             }
           },
           "signatures": [
-            "eRmp4F0Q5jUelSfun5x3sXVtr6v9Mz3frTbbAtpuwJpL+uBnCiivsjyOhh99SlunkOlO0ATUIXJaz9TGAZGDbg=="
+            "M+3aS8msmI2P82250nX1xV/TccLaTlMw6JTWRSgCFdI/Cylov1WIqJy03I8pm8zCIqIiJgLFXpOOOTP3HKItHA=="
           ]
         }
       ]
@@ -208,10 +266,10 @@
         "max_deposit_period": "172800s"
       },
       "voting_params": {
-        "voting_period": "172800s"
+        "voting_period": "300s"
       },
       "tally_params": {
-        "quorum": "0.334000000000000000",
+        "quorum": "0.400000000000000000",
         "threshold": "0.500000000000000000",
         "veto_threshold": "0.334000000000000000"
       }
@@ -253,8 +311,8 @@
       },
       "params": {
         "mint_denom": "uatolo",
-        "inflation_rate_change": "0.130000000000000000",
-        "inflation_max": "0.200000000000000000",
+        "inflation_rate_change": "1.000000000000000000",
+        "inflation_max": "0.150000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
         "blocks_per_year": "4360000"
@@ -275,7 +333,7 @@
     "staking": {
       "params": {
         "unbonding_time": "1814400s",
-        "max_validators": 125,
+        "max_validators": 100,
         "max_entries": 7,
         "historical_entries": 10000,
         "bond_denom": "uatolo"
