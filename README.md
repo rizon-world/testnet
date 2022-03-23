@@ -2,8 +2,8 @@
 
 ## groot
 
-- tag : v0.2.8
-- chain-id : groot-15
+- tag : v0.3.0
+- chain-id : groot-16
 - seeds
-    - 21b3799dbde0cbe097fdded854a1c5e7effab2fd@seed-1.testnet.rizon.world:26656
-    - a6e29178720133b6c1583affb716e83bdea34db6@seed-2.testnet.rizon.world:26656 
+    - 94ea01dc3a496d19ffe5aebc009fef568378bd71@seed-1.testnet.rizon.world:26656
+    - 134a842700aca0a4149b7b9afe63e9fb29a57b77@seed-2.testnet.rizon.world:26656 
