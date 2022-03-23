@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2022-03-23T03:00:00Z",
+  "genesis_time": "2022-03-23T05:00:00Z",
   "chain_id": "groot-16",
   "initial_height": "1",
   "consensus_params": {
@@ -210,7 +210,7 @@
                 "validator_address": "rizonvaloper1avqds8p9dre2dkzxsjvq99d3chfsanrgsktd3q",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "rDeMq7BSEoymMwMxQZLyDjBRMd8VB7FSOzgeYnXaUA0="
+                  "key": "ZeL8qcvSckE/iOk/u+6iiOiTDipSVznB4BkPvcveldk="
                 },
                 "value": {
                   "denom": "uatolo",
@@ -218,7 +218,7 @@
                 }
               }
             ],
-            "memo": "4f96f9e1046669c365dd586b1e00943ae4bc9aee@172.31.14.150:26656",
+            "memo": "70bff333bc51fd9bb5bfb3cf5c1e3561e354f4e0@172.31.14.150:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -246,7 +246,7 @@
             }
           },
           "signatures": [
-            "W7DcPFk4pZrROYBHbuCGc5ROXKxIv4ZiPvjjJSRq9CN5ewQOIEYNZLMfEe/L6PJJx+kUUIclbDmkvauwWfqGNA=="
+            "bFhn4gISmUAgQ1FF1IhFqQxCg6yWiHZCjpINIOkyLjBvSs8DVXPmLxvMYDDXegQ3utoC2mDkfnwsvifej8jL9Q=="
           ]
         }
       ]
@@ -266,7 +266,7 @@
         "max_deposit_period": "172800s"
       },
       "voting_params": {
-        "voting_period": "20s"
+        "voting_period": "300s"
       },
       "tally_params": {
         "quorum": "0.400000000000000000",
