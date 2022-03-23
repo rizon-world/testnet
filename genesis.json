@@ -1,6 +1,6 @@
 {
-  "genesis_time": "2022-03-14T04:05:00Z",
-  "chain_id": "groot-15",
+  "genesis_time": "2022-03-23T05:00:00Z",
+  "chain_id": "groot-16",
   "initial_height": "1",
   "consensus_params": {
     "block": {
@@ -194,7 +194,7 @@
               {
                 "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
                 "description": {
-                  "moniker": "apple",
+                  "moniker": "lion",
                   "identity": "",
                   "website": "",
                   "security_contact": "",
@@ -210,7 +210,7 @@
                 "validator_address": "rizonvaloper1avqds8p9dre2dkzxsjvq99d3chfsanrgsktd3q",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "uD/PmVVYMGbvZotBTgexgSfeXEM3onbSygoDuowjQVk="
+                  "key": "ZeL8qcvSckE/iOk/u+6iiOiTDipSVznB4BkPvcveldk="
                 },
                 "value": {
                   "denom": "uatolo",
@@ -218,7 +218,7 @@
                 }
               }
             ],
-            "memo": "6df7cdcf4781544e5b63b55b6be04c023761ec15@172.31.14.150:26656",
+            "memo": "70bff333bc51fd9bb5bfb3cf5c1e3561e354f4e0@172.31.14.150:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -246,7 +246,7 @@
             }
           },
           "signatures": [
-            "M+3aS8msmI2P82250nX1xV/TccLaTlMw6JTWRSgCFdI/Cylov1WIqJy03I8pm8zCIqIiJgLFXpOOOTP3HKItHA=="
+            "bFhn4gISmUAgQ1FF1IhFqQxCg6yWiHZCjpINIOkyLjBvSs8DVXPmLxvMYDDXegQ3utoC2mDkfnwsvifej8jL9Q=="
           ]
         }
       ]
