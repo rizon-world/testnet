@@ -2,7 +2,7 @@
 
 ## groot
 
-- tag : v0.3.0
+- tag : v0.2.8
 - chain-id : groot-16
 - seeds
     - 94ea01dc3a496d19ffe5aebc009fef568378bd71@seed-1.testnet.rizon.world:26656
