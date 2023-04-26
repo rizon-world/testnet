@@ -1,17 +1,17 @@
 {
-  "genesis_time": "2022-12-01T09:00:00Z",
-  "chain_id": "flora-1",
+  "genesis_time": "2023-04-26T02:00:00Z",
+  "chain_id": "flora-2",
   "initial_height": "1",
   "consensus_params": {
     "block": {
-      "max_bytes": "1000000",
-      "max_gas": "100000000",
+      "max_bytes": "22020096",
+      "max_gas": "-1",
       "time_iota_ms": "1000"
     },
     "evidence": {
       "max_age_num_blocks": "100000",
       "max_age_duration": "172800000000000",
-      "max_bytes": "1000000"
+      "max_bytes": "1048576"
     },
     "validator": {
       "pub_key_types": [
@@ -33,21 +33,21 @@
       "accounts": [
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1q9kzflvl640zkmmxqj6u4mmytmu3e89unnfyr2",
+          "address": "rizon1urfarwfalm0uqdwrkp6hypf85nd4vek8sfnfvz",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1vwcqnse4ku5gxgaqhzer2cm0f58zzywwsqn4mg",
+          "address": "rizon10y0j3tsdlxe8znc3cdj3srmaptcea2r4pr5ss8",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
         },
         {
           "@type": "/cosmos.auth.v1beta1.BaseAccount",
-          "address": "rizon1py6q0dv9c9zenyduh0j9a5vs8yp4yzqcgkakcz",
+          "address": "rizon1yca77tzteyp7esnwchaqes658kjyu2z3g29y32",
           "pub_key": null,
           "account_number": "0",
           "sequence": "0"
@@ -64,29 +64,29 @@
       },
       "balances": [
         {
-          "address": "rizon1q9kzflvl640zkmmxqj6u4mmytmu3e89unnfyr2",
+          "address": "rizon1yca77tzteyp7esnwchaqes658kjyu2z3g29y32",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "500000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon10y0j3tsdlxe8znc3cdj3srmaptcea2r4pr5ss8",
+          "coins": [
+            {
+              "denom": "uatolo",
+              "amount": "500000000000000"
+            }
+          ]
+        },
+        {
+          "address": "rizon1urfarwfalm0uqdwrkp6hypf85nd4vek8sfnfvz",
           "coins": [
             {
               "denom": "uatolo",
               "amount": "1000000000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon1py6q0dv9c9zenyduh0j9a5vs8yp4yzqcgkakcz",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "500000000000000"
-            }
-          ]
-        },
-        {
-          "address": "rizon1vwcqnse4ku5gxgaqhzer2cm0f58zzywwsqn4mg",
-          "coins": [
-            {
-              "denom": "uatolo",
-              "amount": "500000000000000"
             }
           ]
         }
@@ -154,11 +154,11 @@
                   "max_change_rate": "0.010000000000000000"
                 },
                 "min_self_delegation": "1",
-                "delegator_address": "rizon1q9kzflvl640zkmmxqj6u4mmytmu3e89unnfyr2",
-                "validator_address": "rizonvaloper1q9kzflvl640zkmmxqj6u4mmytmu3e89uqht9p6",
+                "delegator_address": "rizon1urfarwfalm0uqdwrkp6hypf85nd4vek8sfnfvz",
+                "validator_address": "rizonvaloper1urfarwfalm0uqdwrkp6hypf85nd4vek8rd3gwj",
                 "pubkey": {
                   "@type": "/cosmos.crypto.ed25519.PubKey",
-                  "key": "i6D+YNFCMSmtQeYXycmwGhjjaC8Y38GNcrPJ/MU2muU="
+                  "key": "c/a6egQRxgHUF1c2nnMiviIMZCHnWrdu2jaq1dnERt4="
                 },
                 "value": {
                   "denom": "uatolo",
@@ -166,7 +166,7 @@
                 }
               }
             ],
-            "memo": "f3aa2e1bae74fd6af8f260a137bc31e1e2cb103e@172.31.2.62:26656",
+            "memo": "6927075e6e9d41d319898659fa4194d542278e72@172.31.2.62:26656",
             "timeout_height": "0",
             "extension_options": [],
             "non_critical_extension_options": []
@@ -176,7 +176,7 @@
               {
                 "public_key": {
                   "@type": "/cosmos.crypto.secp256k1.PubKey",
-                  "key": "Aiqs2HAGYFaC4XvXq8I5i5Qp4y9XyF+QPYwe9QwWAIWR"
+                  "key": "Anni9/VfkymON0YEN34ZoO/nJ20v/gklxQgsRvkLWY48"
                 },
                 "mode_info": {
                   "single": {
@@ -194,10 +194,15 @@
             }
           },
           "signatures": [
-            "Me8CUIL47u1sSwo5OteMsSHHnfjf5v62EexwfGhyugAdLAI9o6AmMawsR9XNVTuCFNiiSwCEWtkcVvceYUcERw=="
+            "FaFDrGCYJcHrE+XzaI3IvDPSVIOJt2roNYu5rvDRmYotp3K/BJk4Y9SiwbJ0hyc3F+0sDflkjuwe80rMNwApJQ=="
           ]
         }
       ]
+    },
+    "globalfee": {
+      "params": {
+        "minimum_gas_prices": []
+      }
     },
     "gov": {
       "starting_proposal_id": "1",
@@ -276,25 +281,31 @@
     },
     "mint": {
       "minter": {
-        "inflation": "0.100000000000000000",
+        "inflation": "0.130000000000000000",
         "annual_provisions": "0.000000000000000000"
       },
       "params": {
         "mint_denom": "uatolo",
-        "inflation_rate_change": "0.250000000000000000",
-        "inflation_max": "0.150000000000000000",
+        "inflation_rate_change": "0.130000000000000000",
+        "inflation_max": "0.200000000000000000",
         "inflation_min": "0.070000000000000000",
         "goal_bonded": "0.670000000000000000",
-        "blocks_per_year": "4360000"
+        "blocks_per_year": "6311520"
       }
+    },
+    "packetfowardmiddleware": {
+      "params": {
+        "fee_percentage": "0.000000000000000000"
+      },
+      "in_flight_packets": {}
     },
     "params": null,
     "slashing": {
       "params": {
         "signed_blocks_window": "10000",
-        "min_signed_per_window": "0.050000000000000000",
+        "min_signed_per_window": "0.500000000000000000",
         "downtime_jail_duration": "600s",
-        "slash_fraction_double_sign": "0.050000000000000000",
+        "slash_fraction_double_sign": "0.000500000000000000",
         "slash_fraction_downtime": "0.000100000000000000"
       },
       "signing_infos": [],
@@ -367,8 +378,7 @@
       },
       "codes": [],
       "contracts": [],
-      "sequences": [],
-      "gen_msgs": []
+      "sequences": []
     }
   }
 }

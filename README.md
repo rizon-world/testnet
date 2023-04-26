@@ -11,7 +11,7 @@
 
 ## flora
 
-- branch: features/cosmwasm
-- chain-id: flora-1
+- branch: features/wasm_1_2_x
+- chain-id: flora-2
 - genesis: [genesis-flora.json](./genesis-flora.json)
-- seed: f3aa2e1bae74fd6af8f260a137bc31e1e2cb103e@3.35.20.192:26656
+- seed: 6927075e6e9d41d319898659fa4194d542278e72@3.35.20.192:26656
